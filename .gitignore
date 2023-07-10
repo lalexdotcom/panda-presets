@@ -1,2 +1,7 @@
 /.pnpm-store
 /node_modules
+styled-system-with-only-local-presets/
+styled-system-with-presets-and-default/
+styled-system-with-theme/
+styled-system-with-two-presets/
+styled-system-without-presets/
